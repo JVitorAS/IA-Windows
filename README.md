@@ -10,7 +10,8 @@ Esses são os seguintes comando:<br>
 -> power off ou shutdown: esse comando ira desligar o seu windows<br>
 -> stop: para o bot parar de processar<br>
 <br><br>
-Por enquanto estou trabalhando no bot conseguir falar em outros idiomas e também ele ser mais inteligente
+Por enquanto estou trabalhando no bot para ele conseguir compreender e falar em outros idiomas e também ele ser
+mais inteligente
 
 
 <strong>Executar o arquivo listen.py</strong>
