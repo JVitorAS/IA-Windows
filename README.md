@@ -11,3 +11,6 @@ Esses são os seguintes comando:<br>
 -> stop: para o bot parar de processar<br>
 <br><br>
 Por enquanto estou trabalhando no bot conseguir falar em outros idiomas e também ele ser mais inteligente
+
+
+<strong>Executar o arquivo listen.py</strong>
